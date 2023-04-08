@@ -1,0 +1,60 @@
+commit 070128bba8dc2bdc093432b914604899e7c3339e (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Stefan Veljanoski <stefan_veljanoski@yahoo.com>
+Date:   Sun Apr 9 01:28:31 2023 +0200
+
+    Revert "Revert "Merge branch 'bug3'""
+
+    This reverts commit 6d2b34f8ff171e33fd5ea315b8211efb29732554.
+
+commit 6d2b34f8ff171e33fd5ea315b8211efb29732554
+Author: Stefan Veljanoski <stefan_veljanoski@yahoo.com>
+Date:   Sun Apr 9 01:18:16 2023 +0200
+
+    Revert "Merge branch 'bug3'"
+
+    This reverts commit 2f55404da5463163ae9c0c7416029248a0998062, reversing
+    changes made to 9db37a39624829b6692d54e34f46547c57a61840.
+
+commit 2f55404da5463163ae9c0c7416029248a0998062
+Merge: 9db37a3 b9259ce
+Author: Stefan Veljanoski <stefan_veljanoski@yahoo.com>
+Date:   Sun Apr 9 01:15:46 2023 +0200
+
+    Merge branch 'bug3'
+
+commit 9db37a39624829b6692d54e34f46547c57a61840
+Merge: 5ef8662 f686815
+Author: Stefan Veljanoski <stefan_veljanoski@yahoo.com>
+Date:   Sun Apr 9 01:15:29 2023 +0200
+
+    Merge branch 'bug2'
+
+commit b9259ceeb60500e468c7eed6b006c9e50ddd1b2a
+Author: Stefan Veljanoski <stefan_veljanoski@yahoo.com>
+Date:   Sun Apr 9 01:11:32 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit f686815792841e33d177d293213827b37058bc83 (origin/bug2, bug2)
+Author: Stefan Veljanoski <stefan_veljanoski@yahoo.com>
+Date:   Sun Apr 9 01:09:51 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 5ef8662cf2428d705e1f718cb4edeb8f4d220b49 (origin/bug1, bug1)
+Author: Stefan Veljanoski <stefan_veljanoski@yahoo.com>
+Date:   Sun Apr 9 01:07:12 2023 +0200
+
+    Fix wrong loop for reading
+
+commit b49ef96e16bc9153a34ea4cf56a4d49478dd648a
+Author: Stefan Veljanoski <stefan_veljanoski@yahoo.com>
+Date:   Sun Apr 9 01:00:08 2023 +0200
+
+    Add java class
+
+commit 01ad08f7fa4bfcd71d837e47b52c289a75123e45
+Author: Stefan Veljanoski <stefan_veljanoski@yahoo.com>
+Date:   Sun Apr 9 00:55:26 2023 +0200
+
+    Initial commit

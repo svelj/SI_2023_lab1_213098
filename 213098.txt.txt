@@ -1,0 +1,13 @@
+git merge bug1
+git push origin master
+
+git merge bug2
+git push origin master
+
+git checkout bug3
+git rebase master
+git push
+
+git checkout master
+git merge bug3
+git push
